@@ -1,0 +1,828 @@
+[Workspace Header]
+Version = 1302
+Pathname = "/g/cvi-2048/2048/2048.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2013"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2013"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 5
+Active Project = 4
+Project 0001 = "2048/2048.prj"
+Project 0001 Collapsed = True
+Project 0001 Folder Source Files Collapsed = True
+Project 0001 FolderId 0 Collapsed = True
+Project 0001 Folder Include Files Collapsed = True
+Project 0001 FolderId 1 Collapsed = True
+Project 0002 = "2048_App/2048_App.prj"
+Project 0002 Collapsed = True
+Project 0002 Folder Source Files Collapsed = True
+Project 0002 FolderId 0 Collapsed = True
+Project 0002 Folder Include Files Collapsed = True
+Project 0002 FolderId 2 Collapsed = True
+Project 0003 = "2048_Tests/2048_Tests.prj"
+Project 0003 Collapsed = True
+Project 0003 Folder Source Files Collapsed = True
+Project 0003 FolderId 0 Collapsed = True
+Project 0004 = "/g/cvi-2048/CVI_Test/CVI_Test.prj"
+Project 0005 = "/g/cvi-2048/CVI_Core/CVI_Core.prj"
+Project 0005 Collapsed = True
+Drag Bar Left = 325
+Window Top = 31
+Window Left = 3
+Window Bottom = 720
+Window Right = 909
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 11
+Window Confinement Region Enabled = True
+MainColumnWidth = 308
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1302
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[Project Header 0002]
+Version = 1302
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[Project Header 0003]
+Version = 1302
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[Project Header 0004]
+Version = 1302
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[Project Header 0005]
+Version = 1302
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/g/cvi-2048/2048/2048/change_notification.c"
+File Type = "CSource"
+Disk Date = 3493600102
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 11
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,13,0,0,3,20,207,629,1,0,"
+
+[File 0002]
+Path = "/g/cvi-2048/2048/2048/controller.c"
+File Type = "CSource"
+Disk Date = 3493600109
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 10
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,13,0,0,3,20,207,629,1,0,"
+
+[File 0003]
+Path = "/g/cvi-2048/2048/2048/game.c"
+File Type = "CSource"
+Disk Date = 3493600123
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 8
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,13,0,0,2,20,207,629,1,0,"
+
+[File 0004]
+Path = "/g/cvi-2048/2048/2048/gameboard.c"
+File Type = "CSource"
+Disk Date = 3493600116
+In Projects = "1,"
+Window Top = 95
+Window Left = 42
+Window Z-Order = 9
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,13,0,0,6,20,207,629,1,0,"
+
+[File 0005]
+Path = "/g/cvi-2048/2048/2048/NextCellGenerator.c"
+File Type = "CSource"
+Disk Date = 3493600131
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 7
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,13,0,0,2,20,207,629,1,0,"
+
+[File 0006]
+Path = "/g/cvi-2048/2048/2048/tile.c"
+File Type = "CSource"
+Disk Date = 3493600139
+In Projects = "1,"
+Window Top = 95
+Window Left = 42
+Window Z-Order = 6
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,13,2,0,4,20,207,629,1,0,"
+
+[File 0007]
+Path = "/g/cvi-2048/2048/2048/change_notification.h"
+File Type = "Include"
+Disk Date = 3492964584
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0008]
+Path = "/g/cvi-2048/2048/2048/controller.h"
+File Type = "Include"
+Disk Date = 3492964036
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0009]
+Path = "/g/cvi-2048/2048/2048/game.h"
+File Type = "Include"
+Disk Date = 3492993504
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0010]
+Path = "/g/cvi-2048/2048/2048/gameboard.h"
+File Type = "Include"
+Disk Date = 3492961954
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0011]
+Path = "/g/cvi-2048/2048/2048/NextCellGenerator.h"
+File Type = "Include"
+Disk Date = 3492964908
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0012]
+Path = "/g/cvi-2048/2048/2048/tile.h"
+File Type = "Include"
+Disk Date = 3492965544
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0013]
+Path = "/g/cvi-2048/2048/2048_App/main.c"
+File Type = "CSource"
+Disk Date = 3492993545
+In Projects = "2,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0014]
+Path = "/g/cvi-2048/2048/2048_App/window.c"
+File Type = "CSource"
+Disk Date = 3493600149
+In Projects = "2,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 5
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,13,0,0,4,20,207,629,1,0,"
+
+[File 0015]
+Path = "/g/cvi-2048/2048/2048/2048.lib"
+File Type = "Library"
+Disk Date = 0
+In Projects = "2,3,"
+
+[File 0016]
+Path = "/g/cvi-2048/2048/2048_App/window.h"
+File Type = "Include"
+Disk Date = 3492990668
+In Projects = "2,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0017]
+Path = "/g/cvi-2048/2048/2048_Tests/change_notification_tests.c"
+File Type = "CSource"
+Disk Date = 3492964584
+In Projects = "3,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0018]
+Path = "/g/cvi-2048/2048/2048_Tests/gameboard_tests.c"
+File Type = "CSource"
+Disk Date = 3493600425
+In Projects = "3,"
+Window Z-Order = 1
+Source Window State = "1,0,0,0,0,0,0,0,0,139,0,0,0,0,0,18,0,0,2,20,400,600,0,0,"
+
+[File 0019]
+Path = "/g/cvi-2048/2048/2048_Tests/nextcellgenerator_tests.c"
+File Type = "CSource"
+Disk Date = 3493600418
+In Projects = "3,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 2
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,13,0,0,2,20,207,629,1,0,"
+
+[File 0020]
+Path = "/g/cvi-2048/2048/2048_Tests/tile_tests.c"
+File Type = "CSource"
+Disk Date = 3492967605
+In Projects = "3,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0021]
+Path = "/g/cvi-2048/CVI_Test/main.c"
+File Type = "CSource"
+Disk Date = 3492286733
+In Projects = "4,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0022]
+Path = "/g/cvi-2048/CVI_Test/SymbolParser.c"
+File Type = "CSource"
+Disk Date = 3485218330
+In Projects = "4,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0023]
+Path = "/g/cvi-2048/CVI_Test/TestContext.c"
+File Type = "CSource"
+Disk Date = 3493600411
+In Projects = "4,"
+Window Top = 95
+Window Left = 42
+Window Z-Order = 3
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,13,0,0,3,17,207,629,1,0,"
+
+[File 0024]
+Path = "/g/cvi-2048/CVI_Test/CVI_Test.h"
+File Type = "Include"
+Disk Date = 3492512551
+In Projects = "4,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0025]
+Path = "/g/cvi-2048/CVI_Test/SymbolParser.h"
+File Type = "Include"
+Disk Date = 3485218306
+In Projects = "4,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0026]
+Path = "/g/cvi-2048/CVI_Test/TestContext.h"
+File Type = "Include"
+Disk Date = 3493600396
+In Projects = "4,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 4
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,13,14,0,20,17,207,629,1,0,"
+
+[File 0027]
+Path = "/g/cvi-2048/CVI_Core/log.c"
+File Type = "CSource"
+Disk Date = 3492967518
+In Projects = "5,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0028]
+Path = "/g/cvi-2048/CVI_Core/log.h"
+File Type = "Include"
+Disk Date = 3492967518
+In Projects = "5,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0029]
+Path = "/g/cvi-2048/CVI_Core/cvi.core.lib"
+File Type = "Library"
+Disk Date = 3493598807
+In Projects = "1,2,3,4,"
+
+[Tab Order]
+Tab 0001 = "/g/cvi-2048/2048/2048/change_notification.c"
+Tab 0002 = "/g/cvi-2048/2048/2048/controller.c"
+Tab 0003 = "/g/cvi-2048/2048/2048/gameboard.c"
+Tab 0004 = "/g/cvi-2048/2048/2048/game.c"
+Tab 0005 = "/g/cvi-2048/2048/2048/NextCellGenerator.c"
+Tab 0006 = "/g/cvi-2048/2048/2048/tile.c"
+Tab 0007 = "/g/cvi-2048/2048/2048_App/window.c"
+Tab 0008 = "/g/cvi-2048/CVI_Test/TestContext.h"
+Tab 0009 = "/g/cvi-2048/CVI_Test/TestContext.c"
+Tab 0010 = "/g/cvi-2048/2048/2048_Tests/nextcellgenerator_tests.c"
+Tab 0011 = "/g/cvi-2048/2048/2048_Tests/gameboard_tests.c"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args Line0001 = "\"C:\\Users\\Nick\\Documents\\National Instruments\\CVI\\2048\\2048 Tests\\2048."
+Command Line Args Line0002 = "tests.dll\""
+Working Directory = "c:\\Users\\Nick\\Documents\\National Instruments\\CVI\\2048\\2048"
+Environment Options = ""
+External Process Path = "/c/Users/Nick/Documents/National Instruments/CVI/CVI_Test/CVITest.exe"
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 1
+Dependency 0001 = 5
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Extended"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Default Build Config 0002 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0002 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0002 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "No Run-time Checking"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0002 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0002]
+Number of Dependencies = 2
+Dependency 0001 = 1
+Dependency 0002 = 5
+
+[Build Options 0002]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Extended"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0002]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0002]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0002]
+External Process Path = ""
+
+[Command Line Args 0002]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Default Build Config 0003 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = "2048.tests.dll"
+Working Directory = "c:\\Users\\Nick\\Documents\\National Instruments\\CVI\\2048\\2048 Tests"
+Environment Options = ""
+External Process Path = "/c/Users/Nick/Documents/National Instruments/CVI/CVI_Test/CVITest.exe"
+
+[Default Build Config 0003 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args Line0001 = "\"C:\\Users\\Nick\\Documents\\National Instruments\\CVI\\2048\\2048 Tests\\2048."
+Command Line Args Line0002 = "tests.dll\""
+Working Directory = ""
+Environment Options = ""
+External Process Path = "/c/Users/Nick/Documents/National Instruments/CVI/CVI_Test/CVITest.exe"
+
+[Default Build Config 0003 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args Line0001 = "\"C:\\Users\\Nick\\Documents\\National Instruments\\CVI\\2048\\2048 Tests\\2048."
+Command Line Args Line0002 = "tests.dll\""
+Working Directory = ""
+Environment Options = ""
+External Process Path = "/c/Users/Nick/Documents/National Instruments/CVI/CVI_Test/CVITest.exe"
+
+[Default Build Config 0003 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args Line0001 = "\"C:\\Users\\Nick\\Documents\\National Instruments\\CVI\\2048\\2048 Tests\\2048."
+Command Line Args Line0002 = "tests.dll\""
+Working Directory = ""
+Environment Options = ""
+External Process Path = "/c/Users/Nick/Documents/National Instruments/CVI/CVI_Test/CVITest.exe"
+
+[Build Dependencies 0003]
+Number of Dependencies = 3
+Dependency 0001 = 1
+Dependency 0002 = 4
+Dependency 0003 = 5
+
+[Build Options 0003]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Extended"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0003]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0003]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0003]
+External Process Path = "/c/Users/Nick/Documents/National Instruments/CVI/CVI_Test/CVITest.exe"
+
+[Command Line Args 0003]
+Command Line Args Line0001 = "\"C:\\Users\\Nick\\Documents\\National Instruments\\CVI\\2048\\2048 Tests\\2048."
+Command Line Args Line0002 = "tests.dll\""
+Working Directory = ""
+Environment Options = ""
+
+[Default Build Config 0004 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0004 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0004 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0004 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0004]
+Number of Dependencies = 1
+Dependency 0001 = 5
+
+[Build Options 0004]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Extended"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0004]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0004]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0004]
+External Process Path = ""
+
+[Command Line Args 0004]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Default Build Config 0005 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0005 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0005 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0005 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Extended"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0005]
+Number of Dependencies = 0
+
+[Build Options 0005]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Extended"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0005]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0005]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0005]
+External Process Path = ""
+
+[Command Line Args 0005]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[User-Defined Tokens]
+Token 1 = "Window"
+Token 2 = "CreateUserInterfaceHandler"
+Token 3 = "ChangeHandler"
+Token 4 = "TileChangeHandler"
+Token 5 = "TileChangeData"
+Token 6 = "ClearDataHandler"
+Token 7 = "ListenerList"
+Token 8 = "ClientAddRemoveTileData"
+Token 9 = "AddRemoveReason"
+Token 10 = "UpdateGameHandler"
+Token 11 = "TileUpdateHandler"
+Token 12 = "GameUpdateHandler"
+Token 13 = "Controller"
+Token 14 = "Game2048"
+Token 15 = "UserInterface"
+Token 16 = "GetTargetHandler"
+Token 17 = "MoveNextHandler"
+Token 18 = "SlideDirection"
+Token 19 = "GameBoardCell"
+Token 20 = "NextCellGenerator"
+Token 21 = "UserTest"
+Token 22 = "TestMethod"
+Token 23 = "TestContext"
+Token 24 = "LogAssertHandler"
+Token 25 = "GameBoard"
+Token 26 = "Tile"
+Token 27 = "AssertReason"
+Token 28 = "Log"
+
